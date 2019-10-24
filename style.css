@@ -89,7 +89,6 @@ section {
 }
 
 nav {
-  height: 2%;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -297,7 +296,7 @@ a {
 }
 
 button {
-  height: 15%;
+  height: 50%;
   width: 25%;
   border-radius: 50px;
   font-size: 0.8em;
